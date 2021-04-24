@@ -1,2 +1,2 @@
-# getsafepassword.github.io
-GetSafePassword
+# getsafepassword.com
+The main site.
